@@ -1,0 +1,16 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,car 170 - xe ở giữa và sát cạnh dưới của ảnh,added,Thấy thân xe và đủ ranh giới theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,car 11 - box bị nhỏ và chưa bao hết thân xe nhìn thấy,edited,Sửa box rộng hơn để ôm sát thân xe theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,car 5 - box đang bao cả 2 xe,edited,Hai xe chạy sát nhau nên vẽ 2 box riêng theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,car 180 - xe ở bên trái ảnh phía xa cuối đường,added,Chỉ thấy đèn thân xe tối nhưng vẫn đoán được đường viền và cao hơn 16 pixel để vẽ box theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,car 181 - xe ở bên trái ảnh phía xa cuối đường,added,Chỉ thấy đèn thân xe tối nhưng vẫn đoán được đường viền và cao hơn 16 pixel để vẽ box theo GUIDELINE_LABEL.md
+1,frame_0099.jpg,car 182 - xe ở bên trái ảnh phía xa cuối đường,added,Chỉ thấy đèn thân xe tối nhưng vẫn đoán được đường viền và cao hơn 16 pixel để vẽ box theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,car 184 - xe ở giữa và sát cạnh dưới của ảnh,added,Xe bị nhoè do chuyển động nhưng vẫn thấy thân xe để vẽ box theo GUIDELINE_LABEL.md
+1,frame_0107.jpg,car 185 - xe ở bên trái và sát cạnh dưới của ảnh,added,Thấy thân xe và đèn đủ ranh giới theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,car 66 - box ở bên trái giữa ảnh bao cả 3 xe,deleted,Không rõ đánh nhãn cho xe nào nên xóa
+1,frame_0270.jpg,car 223 - xe ở dưỡi gần góc trái ảnh,added,Xe bị nhoè do chuyển động nhưng vẫn thấy đèn và thân xe để vẽ box theo GUIDELINE_LABEL.md
+1,frame_0326.jpg,car 105 - box ở bên trái giữa ảnh phía xa cuối đường,deleted,Không bao xe nào cả nên xóa
+1,frame_0331.jpg,car 112 - box ở giữa ảnh bao chùm box khác,deleted,Bị thừa nên xóa
+1,frame_0331.jpg,car 115 - box ở giữa ảnh,deleted,Không bao xe nào cả nên xóa
+1,frame_0331.jpg,car 116 - box ở giữa bên phải ảnh,deleted,Đè trùng lên box khác (car 123) nên bị thừa cần xóa
+
